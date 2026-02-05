@@ -2,8 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto foi desenvolvido no **Google Colab** como parte do **Desafio Alura Store**, da Especialização em **Data Science**.  
-O objetivo é analisar o desempenho de quatro lojas de um e-commerce e apoiar uma decisão estratégica de negócio baseada em dados.
+Este projeto foi desenvolvido no **Google Colab** como parte do **Desafio Alura Store**, da Especialização em **Data Science**.  A ideia do projeto é analisar o desempenho de quatro lojas de um e-commerce e apoiar uma decisão estratégica de negócio baseada em dados.
 
 A partir da análise, foi possível identificar **qual loja apresenta o pior desempenho geral** e, portanto, é a mais indicada para ser vendida.
 
