@@ -1,5 +1,4 @@
-# Análise de Vendas — Alura Store
-
+# Alura Store — Análise de Vendas
 ## Descrição do Projeto
 
 Este projeto foi desenvolvido no **Google Colab** como parte do **Desafio Alura Store**, da Especialização em **Data Science**.  A ideia do projeto é analisar o desempenho de quatro lojas de um e-commerce e apoiar uma decisão estratégica de negócio baseada em dados.
