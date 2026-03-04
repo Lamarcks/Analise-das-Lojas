@@ -80,3 +80,6 @@ As **Lojas 1, 2 e 3** demonstram melhor desempenho e maior estabilidade, sendo r
 ## 👤 Autor
 
 Projeto desenvolvido por Ihago Lamarcks como parte do **Programa ONE — Oracle Next Education & Alura**.
+LinkedIn: www.linkedin.com/in/ihago-lamarcks1
+
+
